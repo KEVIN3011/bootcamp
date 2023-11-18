@@ -1,0 +1,7 @@
+# bootcamp
+repository untuk menyimpan data bootcamp
+  Membuat Nama Siswa
+  Membuat Alamat Siswa
+  Membuat Umur Siswa
+  Membuat Pendidikan Siswa
+  
